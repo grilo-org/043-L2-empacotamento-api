@@ -1,0 +1,47 @@
+[
+  {
+    "id": "pedido-001",
+    "produtos": [
+      {
+        "id": "prod-001",
+        "nome": "Jogo de Tabuleiro",
+        "altura": 10.0,
+        "largura": 30.0,
+        "comprimento": 40.0
+      },
+      {
+        "id": "prod-002",
+        "nome": "Console Portátil",
+        "altura": 5.0,
+        "largura": 15.0,
+        "comprimento": 20.0
+      },
+      {
+        "id": "prod-003",
+        "nome": "Jogo de Cartas",
+        "altura": 3.0,
+        "largura": 10.0,
+        "comprimento": 15.0
+      }
+    ]
+  },
+  {
+    "id": "pedido-002",
+    "produtos": [
+      {
+        "id": "prod-004",
+        "nome": "Console de Videogame",
+        "altura": 15.0,
+        "largura": 30.0,
+        "comprimento": 40.0
+      },
+      {
+        "id": "prod-005",
+        "nome": "Controle sem Fio",
+        "altura": 5.0,
+        "largura": 15.0,
+        "comprimento": 20.0
+      }
+    ]
+  }
+]
